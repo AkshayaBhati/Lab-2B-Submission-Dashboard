@@ -16,9 +16,10 @@ After running our LED code with the same procedure as mentioned in the setup gui
 https://github.com/AkshayaBhati/ESE-519-Lab-2-Setup-Guide/blob/main/README.md <br>
 
 We can see the LED Blinking <br>
+<p align = "center">
 
 ![LED Blinking (1)](https://user-images.githubusercontent.com/114259992/197149426-1547e072-1e63-4e48-97d8-a94ba02519f4.gif)
-
+</p>
 
 ## Lab 2B Proposal ##
 
