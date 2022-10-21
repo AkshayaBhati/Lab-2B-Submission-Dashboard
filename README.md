@@ -19,11 +19,11 @@ We can see the LED Blinking <br>
 
 ## Lab 2B Proposal ##
 
-First, we will detect if there is light or not using the sensor, just like an LDR. So when there is no light, we can use motion to detect direction. Here we will use the Gesture sensing from the previous labs. The LED will glow in the shape of an arrow in the direction our hand is moving. If the right direction then 8 LEDs will glow, making a pattern of an arrow in the right direction and similarly for the left. It resembles the car's rear indicators.
+First, we will detect if there is light or not using the sensor, just like an LDR. So when there is no light, we can use motion to detect direction. Here we will use the Gesture sensing from the previous labs. The LED will glow in the shape of an arrow in the direction our hand is moving. If the right direction then 8 LEDs will glow, making a pattern of an arrow in the right direction and similarly for the left. It resembles the car's rear indicators. <br>
 
 
 ## Components Required ##
 
-10 LEDs
-10 Resistors
-Jumper wires
+10 LEDs <br>
+10 Resistors <br>
+Jumper wires <br>
