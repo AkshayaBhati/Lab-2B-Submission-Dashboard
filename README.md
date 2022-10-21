@@ -21,6 +21,7 @@ We can see the LED Blinking <br>
 
 First, we will detect if there is light or not using the sensor, just like an LDR. So when there is no light, we can use motion to detect direction. Here we will use the Gesture sensing from the previous labs. The LED will glow in the shape of an arrow in the direction our hand is moving. If the right direction then 8 LEDs will glow, making a pattern of an arrow in the right direction and similarly for the left. It resembles the car's rear indicators. <br>
 
+![Hand Movement Detected by (1)](https://user-images.githubusercontent.com/114259992/197164527-367c8c59-6713-4680-bebe-539b7895e377.jpg)
 
 ## Components Required ##
 
