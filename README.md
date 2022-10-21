@@ -4,7 +4,11 @@
 
 As you can see here we are using a Breadboard, Adafruit QT Py RP2040, one resistor, RED LED, and Jumper wires. They are connected as shown in the picture below: <br>
 
+<p align = "center">
+
 <img width="466" alt="23435" src="https://user-images.githubusercontent.com/114259992/197166327-e9269731-d65f-478a-b7ae-c55757e642a2.png">
+
+</p>
 
 <br>
 
