@@ -36,7 +36,8 @@ First, we will detect if there is light or not using the sensor, just like an LD
 <img width="453" alt="Block Diagram" src="https://user-images.githubusercontent.com/114259992/197164960-f9a14e77-9c81-410d-9ddd-b8e05f751a64.png">
 
 </p>
-*Components Required*
+
+# Components Required #
 
 10 LEDs <br>
 10 Resistors <br>
