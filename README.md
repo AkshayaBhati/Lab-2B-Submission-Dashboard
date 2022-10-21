@@ -37,7 +37,7 @@ First, we will detect if there is light or not using the sensor, just like an LD
 
 </p>
 
-# Components Required #
+## Components Required ##
 
 10 LEDs <br>
 10 Resistors <br>
