@@ -3,8 +3,7 @@
 ## Blinking the LED ##
 
 As you can see here we are using a Breadboard, Adafruit QT Py RP2040, one resistor, RED LED, and Jumper wires. They are connected as shown in the picture below: <br>
-
-![LED Circuit](https://user-images.githubusercontent.com/114259992/197148474-8bb4bc8b-ca02-4322-9303-bf4f1664f4bb.jpeg)
+<img src = "![LED Circuit](https://user-images.githubusercontent.com/114259992/197148474-8bb4bc8b-ca02-4322-9303-bf4f1664f4bb.jpeg)" width="300")
 
 <br>
 
