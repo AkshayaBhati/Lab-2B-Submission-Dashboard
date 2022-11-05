@@ -44,6 +44,6 @@ First, we will detect if there is light or not using the sensor, just like an LD
 2 10 kilo-ohms resistors (pull up resistors for the buttons) <br>
 Jumper wires <br>
 Breadboard <br>
-1 Push Buttons <br>
+1 Push Button <br>
 1 Slider Button <br>
 1 Protoboard <br>
