@@ -39,7 +39,7 @@ Then we are using a slider button. If it's in the right direction, then the righ
 
 The LED will glow in the shape of an arrow in the direction the slider button is moved. If in the right direction then 8 LEDs will glow, making a pattern of an arrow in the right direction and similarly for the left. It resembles the car's rear indicators. <br>
 
-
+https://user-images.githubusercontent.com/114259992/200098455-5a24a71c-7320-4264-82a9-03bc9482b5e8.mp4
 
 Block Diagram: <br>
 <p align = "center">
