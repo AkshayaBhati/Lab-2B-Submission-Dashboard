@@ -29,8 +29,17 @@ We can see the LED Blinking <br>
 
 ## Lab 2B Proposal ##
 
-First, we will detect if there is light or not using the sensor, just like an LDR. So when there is no light, we can use motion to detect direction. Here we will use the Gesture sensing from the previous labs. The LED will glow in the shape of an arrow in the direction our hand is moving. If the right direction then 8 LEDs will glow, making a pattern of an arrow in the right direction and similarly for the left. It resembles the car's rear indicators. <br>
+Here we are using a Push Button to on and off the LEDs operation. <br>
 
+![Slider Button GIF](https://user-images.githubusercontent.com/114259992/200097298-da76982a-6b16-4791-8f9d-fa8eb46eeed3.gif)
+
+Then we are using a slider button. If it's in the right direction, then the right arrow will glow and similarly left arrow will glow for left direction. <br>
+
+![Slider Button GIF](https://user-images.githubusercontent.com/114259992/200097311-2f6c758d-8df1-47ec-a82e-45455a65f793.gif)
+
+The LED will glow in the shape of an arrow in the direction the slider button is moved. If in the right direction then 8 LEDs will glow, making a pattern of an arrow in the right direction and similarly for the left. It resembles the car's rear indicators. <br>
+
+Block Diagram: <br>
 <p align = "center">
 
 <img width="453" alt="Block Diagram" src="https://user-images.githubusercontent.com/114259992/197164960-f9a14e77-9c81-410d-9ddd-b8e05f751a64.png">
