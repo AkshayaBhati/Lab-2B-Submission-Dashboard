@@ -31,7 +31,7 @@ We can see the LED Blinking <br>
 
 Here we are using a Push Button to on and off the LEDs operation. <br>
 
-![Slider Button GIF](https://user-images.githubusercontent.com/114259992/200097298-da76982a-6b16-4791-8f9d-fa8eb46eeed3.gif)
+![Push Button GIF](https://user-images.githubusercontent.com/114259992/200097343-c4a57d90-a3b3-448c-83c6-eda3447c35b2.gif)
 
 Then we are using a slider button. If it's in the right direction, then the right arrow will glow and similarly left arrow will glow for left direction. <br>
 
