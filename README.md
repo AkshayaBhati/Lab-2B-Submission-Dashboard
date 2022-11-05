@@ -46,12 +46,6 @@ Block Diagram: <br>
 
 </p>
 
-Circuit: <br>
-<p align = "center">
-
-  ![Circuit](https://user-images.githubusercontent.com/114259992/200097425-eef0ed9a-b0c5-4450-8e02-d961849abfeb.jpeg)
-
-</p>
 ## Components Required ##
 
 10 LEDs <br>
