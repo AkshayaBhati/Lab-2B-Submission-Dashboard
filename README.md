@@ -40,5 +40,10 @@ First, we will detect if there is light or not using the sensor, just like an LD
 ## Components Required ##
 
 10 LEDs <br>
-10 Resistors <br>
+10 330 ohms resistors (for LEDs)<br>
+2 10 kilo-ohms resistors (pull up resistors for the buttons) <br>
 Jumper wires <br>
+Breadboard <br>
+1 Push Buttons <br>
+1 Slider Button
+1 Protoboard
