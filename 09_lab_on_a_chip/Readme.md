@@ -1,7 +1,5 @@
-      Sahil Mahendra Mangaonkar
-      LinkedIn: https://www.linkedin.com/in/sahil-m-39a2671b0
-      Tested on:  HP Probook 650 G1 (15.6-inch, 2014), Window 10 
-
+    Akshaya Nidhi Bhati
+      LinkedIn: https://www.linkedin.com/in/akshaya-nidhi-bhati-6467841b3/?originalSubdomain=in
 ## Modifications implemented:
 
 Modifications were made to the part 8 (adps_protocol) to work with the QTPy board. Code uploaded, with minor changes to the attached CMakeLists given with the example.
