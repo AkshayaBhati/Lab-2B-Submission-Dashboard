@@ -1,6 +1,9 @@
-## We made following Modifications:
+# TODO: #
+* modify your sequencer to use the PIO as its primary I/O engine, including the ability to R/W any register
 
-### Modifications were made in the ws2812.pio file to read the boot pin using PIO.
+# Pio Sequencer #
+
+We modified the ws2812.pio file to read the boot pin using PIO, added new function to initialize bootpin_program. Some other modifications were made in the ws2812.c file to use these constructs: pio_sm_get(pio,sm1) function instead of gpio_get(boot_pin) function.
 
 ### Assembly language code:
 
@@ -13,7 +16,7 @@
       jmp label
       .wrap
 
-### Added new function to initialize bootpin_program:
+### function to initialize bootpin_program:
 
       static inline void bootpin_program_init(PIO pio, uint sm, uint offset, uint pin) {
       pio_sm_config c = bootpin_program_get_default_config(offset);
@@ -24,12 +27,18 @@
       pio_sm_init(pio, sm, offset, &c);
       pio_sm_set_enabled(pio, sm, true);
       }
+      
+# Output: #
 
-### Modifications were made in the ws2812.c file to use these constructs:
+As explained in earlier part 3 a text file will be generated as shown below: 
 
-We used pio_sm_get(pio,sm1) function instead of gpio_get(boot_pin) function.
+<img width="600" alt="7b" src="https://user-images.githubusercontent.com/114259992/202722487-b54210df-3cc8-40a1-a2c1-6509970ea33b.png">
 
-## Output:
+The output terminal will be as follow:
+
+<img width="523" alt="7a" src="https://user-images.githubusercontent.com/114259992/202722457-e5e41178-6d88-4288-b652-17abe874a045.png">
+
+Output Video:
 
 https://user-images.githubusercontent.com/73771085/202616164-590b2e2e-2b38-4916-8a20-9b2992f3571c.mp4
 
