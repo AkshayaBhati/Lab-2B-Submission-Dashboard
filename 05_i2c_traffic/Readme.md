@@ -1,9 +1,11 @@
-## I2C Traffic
+# I2C Traffic #
 
-Since the SCL or clock signal drives communication between the nodes, I2C is a serial, synchronous communication protocol, as can be seen from the graphics above.
+As we can see from the graphics, I2C is a serial, synchronous communication protocol, as the SCL or clock signal drives communication between the nodes.
 
-For a finer signal, the oscilloscope was set to digital mode (without the noise).
+The oscilloscope was set to digital mode (without noise) to get a better output signal.
 
-To view the digital signal on the oscilloscope, conventional probes and logic analyser probe cables were utilized.
+We use conventional probes and logic analyser probe cables to view the digital signal on the oscilloscope.
 
-The I2C traffic between the Adafruit QTPy RP2040 and the APDS9960 sensor is depicted in the gif.
+The I2C traffic between the Adafruit QTPy RP2040 and the APDS9960 sensor is depicted in the gif below.
+
+
