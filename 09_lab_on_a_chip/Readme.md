@@ -17,6 +17,11 @@ As shown below (in the Dark Mode):
 
 https://user-images.githubusercontent.com/114259992/202831232-ae160937-bc99-4cfe-8a09-f0ee1c6043f4.mp4
 
+
+Output for the Dark Mode on Putty 
+
+![Part 9 Output](https://user-images.githubusercontent.com/114259992/202832718-803570e5-dadf-4805-b7a0-bffd34467d9f.jpeg)
+
 We can see the change in brightness according to the sensor input. As shown below (in the Dark Mode):
 
 For Red color inputs 
